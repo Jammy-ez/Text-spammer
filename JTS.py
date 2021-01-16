@@ -1,4 +1,3 @@
-from six.moves import input
 import time
 import pyautogui
 import pyperclip
